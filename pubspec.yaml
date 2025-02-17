@@ -55,6 +55,7 @@ dependencies:
   build_runner: ^2.4.15
   # Generator for your assets, fonts, colors...etc
   flutter_gen_runner: ^5.9.0
+
   # Localization
   intl: ^0.19.0
   easy_localization: 3.0.7+1
